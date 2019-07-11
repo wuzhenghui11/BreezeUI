@@ -19,7 +19,11 @@
     "url": "https://github.com/wuzhenghui11/BreezeUI/issues"
   },
   "homepage": "https://github.com/wuzhenghui11/BreezeUI#readme",
-  "dependencies": {
-    "vue": "^2.6.10"
+  "dependencies": {},
+  "devDependencies": {
+    "babel-loader": "^8.0.6",
+    "vue": "^2.6.10",
+    "webpack": "^4.35.2",
+    "webpack-merge": "^4.2.1"
   }
 }
